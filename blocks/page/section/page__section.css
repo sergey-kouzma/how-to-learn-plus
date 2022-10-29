@@ -1,0 +1,15 @@
+.page__section {
+    width: 80%;
+    margin: auto;
+    padding-top:100px;
+    text-align: center;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.page__section_dark {
+    background-color: #1f1f1f;
+    padding-top: 90px;
+    width: 100%;
+}

@@ -6,5 +6,5 @@
     width:90%;
     flex-direction: row;
     padding: 60px 0px 0px;
-    
+    justify-content: space-between;
 }

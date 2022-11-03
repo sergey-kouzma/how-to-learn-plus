@@ -1,5 +1,5 @@
 .footer__column-heading {
-    line-height: 18px;
+    line-height: 18px; /*В брифе написано так: "3/ Высота строки 18px, размер шрифта 18px, начертание шрифта — 600"*/
     font-size:18px;
     font-weight:bold;
     margin: 0px;

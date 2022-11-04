@@ -1,6 +1,6 @@
 .footer__column-heading {
     line-height: 18px; /*В брифе написано так: "3/ Высота строки 18px, размер шрифта 18px, начертание шрифта — 600"*/
-    font-size:18px;
-    font-weight:bold;
+    font-size: 18px;
+    font-weight: 600; /*Начертание исправил*/
     margin: 0px;
 }
